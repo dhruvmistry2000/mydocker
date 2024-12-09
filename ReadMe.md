@@ -1,5 +1,7 @@
 # My Docker Project Repository
 
+![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png)
+
 Welcome to my Docker project repository! This repository contains various Docker images that are designed to simplify your development and deployment processes. 
 
 ## Overview
