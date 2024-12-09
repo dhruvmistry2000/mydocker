@@ -1,5 +1,7 @@
 ## Dockerfile for Alpine Linux
 
+![Doom Image](../doom.jpeg) 
+
 This Dockerfile creates a Docker container using Alpine Linux as the base image. Below are the steps to use this Dockerfile.
 
 ### Steps to Use the Dockerfile

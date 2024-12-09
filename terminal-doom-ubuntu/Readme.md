@@ -1,5 +1,7 @@
 ## Dockerfile for Ubuntu Linux
 
+![Doom Image](../doom.jpeg)
+
 This Dockerfile creates a Docker container using Ubuntu as the base image. Below are the steps to use this Dockerfile.
 
 ### Steps to Use the Dockerfile
