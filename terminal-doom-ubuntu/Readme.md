@@ -1,5 +1,8 @@
 ## Dockerfile for Ubuntu Linux
 
+![Doom Logo](https://example.com/path-to-doom-logo.png)
+![Ubuntu Logo](https://ubuntu.com/favicon.ico)
+
 This Dockerfile creates a Docker container using Ubuntu as the base image. Below are the steps to use this Dockerfile.
 
 ### Steps to Use the Dockerfile
