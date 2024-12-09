@@ -8,7 +8,7 @@ In this repository, you will find a collection of Docker images that are pre-con
 
 ## Docker Hub
 
-Some of the images are also available on my Docker Hub page. You can find them by following this link: [My Docker Hub Page](https://hub.docker.com/dhruvmistry200)
+Some of the images are also available on my Docker Hub page. You can find them by following this link: [My Docker Hub Page](https://hub.docker.com/repositories/dhruvmistry200)
 
 Feel free to explore the images, pull them to your local environment, and use them in your projects. If you have any questions or need assistance, don't hesitate to reach out!
 
