@@ -9,12 +9,12 @@ This Dockerfile creates a Docker container using Ubuntu as the base image. Below
 2. Run the Docker build command:
 
    ```
-   docker build -t your-ubuntu-image-name .
+   docker build -t your-image-name .
    ```
 3. Run the Docker container using the command:
 
    ```
-   docker run -it your-ubuntu-image-name
+   docker run -it your-image-name
    ```
 
 This will create a lightweight container based on Ubuntu, ready for your applications.
