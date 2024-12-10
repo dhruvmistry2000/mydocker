@@ -18,7 +18,7 @@ You can find my website at: [My Website](https://dhruvmistry2000.github.io/dhruv
 3. Run the Docker container using the command:
 
    ```
-   docker run -it your-image-name
+   docker run -it -p 8080:80 your-image-name
    ```
 
 This will create a lightweight container based on Alpine Linux, ready for your applications. You can also find this image on my Docker Hub page: [Mywebsite Image](https://hub.docker.com/repository/docker/dhruvmistry200/mywebsite/general).
