@@ -1,6 +1,5 @@
 FROM alpine:latest
 
-# Update the base system and install necessary packages
 RUN apk add --no-cache git build-base curl jq \
     && curl -L https://ziglang.org/download/0.13.0/zig-linux-x86_64-0.13.0.tar.xz -o zig.tar.xz \
     && tar -xJf zig.tar.xz -C /usr/local/bin --strip-components=1 \
