@@ -5,7 +5,7 @@
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" height="50" /></span>
 
 This Dockerfile creates a Docker container using Alpine Linux as the base image for MyWebsite. Below are the steps to use this Dockerfile.
-You can find my website at: [My Website](dhruvmistry2000.github.io/dhruvmistry/)
+You can find my website at: [My Website](https://dhruvmistry2000.github.io/dhruvmistry/)
 
 
 ### Steps to Use the Dockerfile
