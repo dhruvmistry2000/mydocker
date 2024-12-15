@@ -9,7 +9,7 @@ This Docker Compose file sets up a WordPress environment with a MySQL database. 
 1. Use the following curl command to download the Docker Compose file directly into this directory:
 
    ```
-   curl -o docker-compose.yml https://raw.githubusercontent.com/yourusername/yourrepository/main/Wordpress/docker-compose.yml
+   curl -o docker-compose.yml https://raw.githubusercontent.com/dhruvmistry2000/mydocker/refs/heads/main/Wordpress/docker-compose.yml
    ```
 2. Run the Docker Compose command:
 
