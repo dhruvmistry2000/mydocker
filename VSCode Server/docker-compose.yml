@@ -1,0 +1,11 @@
+services:
+  vscode:
+    image: codercom/code-server:latest
+    container_name: vscode-server
+    ports:
+      - "8081:8080"
+    # volumes:
+    #   - /path/to/your/workspace:/home/coder/project
+    environment:
+      - PASSWORD=your_password
+    restart: unless-stopped
