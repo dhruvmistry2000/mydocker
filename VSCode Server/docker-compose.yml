@@ -8,4 +8,5 @@ services:
     #   - /path/to/your/workspace:/home/coder/project
     environment:
       - PASSWORD=your_password
+      - USERNAME=coder
     restart: unless-stopped
