@@ -1,0 +1,29 @@
+name: Docker Build Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Find and Build Docker Images
+        run: |
+          counter=1
+          
+          for dockerfile in $(find . -name 'Dockerfile'); do
+            dir=$(dirname "$dockerfile")
+            image_name="image${counter}"
+            echo "Building Docker image: $image_name"
+            docker build -t "$image_name" "$dir" || exit 1
+            counter=$((counter + 1))
+          done
