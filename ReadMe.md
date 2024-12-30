@@ -18,6 +18,6 @@ Before using these Docker images, you'll need to have Docker installed on your s
 
 ## Docker Hub
 
-Some of the images are also available on my Docker Hub page. You can find them by following this link: [My Docker Hub Page](https://hub.docker.com/repositories/dhruvmistry200)
+Some of the images are also available on my Docker Hub page. You can find them by following this link: [My Docker Hub Page](https://hub.docker.com/u/dhruvmistry200)
 
 Feel free to explore the images, pull them to your local environment, and use them in your projects. If you have any questions or need assistance, don't hesitate to reach out!
