@@ -1,7 +1,7 @@
 services:
   ollama:
     volumes:
-      - ollama:/root/.ollama
+      - ./ollama:/root/.ollama
     container_name: ollama
     pull_policy: always
     tty: true
@@ -17,7 +17,7 @@ services:
     image: ghcr.io/open-webui/open-webui:${WEBUI_DOCKER_TAG-main}
     container_name: open-webui
     volumes:
-      - open-webui:/app/backend/data
+      - ./open-webui:/app/backend/data
     depends_on:
       - ollama
     ports:
@@ -28,7 +28,3 @@ services:
     extra_hosts:
       - host.docker.internal:host-gateway
     restart: unless-stopped
-
-volumes:
-  ollama: {}
-  open-webui: {}
