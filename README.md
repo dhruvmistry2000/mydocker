@@ -21,3 +21,36 @@ Before using these Docker images, you'll need to have Docker installed on your s
 Some of the images are also available on my Docker Hub page. You can find them by following this link: [My Docker Hub Page](https://hub.docker.com/u/dhruvmistry200)
 
 Feel free to explore the images, pull them to your local environment, and use them in your projects. If you have any questions or need assistance, don't hesitate to reach out!
+
+## Projects
+
+### 2048 Game
+[GitHub Repository](https://github.com/dhruvmistry2000/mydocker/tree/main/2048-game)
+
+- A simple, yet addictive game built using vanilla HTML, CSS, and JavaScript.
+
+### Terminal-Doom
+[GitHub Repository](https://github.com/dhruvmistry2000/mydocker/tree/main/Terminal-Doom)
+
+- A classic text-based version of Doom, created using C.
+
+### VSCode Server
+[GitHub Repository](https://github.com/dhruvmistry2000/mydocker/tree/main/VSCode-Server)
+
+- Docker setup that provides a browser-based VSCode environment.
+
+### Website
+[GitHub Repository](https://github.com/dhruvmistry2000/mydocker/tree/main/website)
+
+- A static website created using HTML, CSS, and JavaScript with local file storage.
+
+### Wordpress
+[GitHub Repository](https://github.com/dhruvmistry2000/mydocker/tree/main/Wordpress)
+
+- Docker Compose setup for a WordPress environment with a MySQL database.
+
+### Ollama and OpenWebUI
+
+- Benefits of hosting Local AI with Ollama:
+  - Enhanced privacy
+  - Reduced latency
