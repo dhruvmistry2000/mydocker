@@ -1,4 +1,4 @@
-## Hosting Local AI with Ollama
+## Hosting Local AI with Ollama and OpenWebUI
 
 <span><img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/c378f0a492cacfa327b9cc7b4b97fa6605f72de8/assets/ollama-white.svg" alt="Ollama Logo" width="50" height="50" /></span>
 <span><img src="https://docs.openwebui.com/images/logo.png" alt="OWUI Logo" width="50" height="50" /></span>
